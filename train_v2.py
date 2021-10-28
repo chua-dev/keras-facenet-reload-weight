@@ -7,7 +7,7 @@ import numpy as np
 from sklearn.preprocessing import Normalizer
 from tensorflow.keras.models import load_model
 
-######pathsandvairables#########
+######pathsandvairabless#########
 face_data = 'Faces/'
 required_shape = (160,160)
 face_encoder = InceptionResNetV2()
